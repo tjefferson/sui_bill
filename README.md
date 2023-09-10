@@ -11,7 +11,7 @@
 2. 将文档编码改为utf-8
 
 ### 3.运行Python代码
-1. 将wechat_filepath的值更新为最新的导出文件
+1. 将wechat_filepath的值更新前面处理好的账单文件地址
 2. 执行代码得到wechat_output.xls文件
 
 ### 4.导入到随手记
